@@ -1,0 +1,11 @@
+<strings>
+
+    <string id="AppName">images</string>
+
+    <string id="BGOpt">Background Option</string>
+
+    <string id="BGOptTitle">Choose a BG</string>
+    <string id="BGOptPrompt">Choose a BG</string>
+    <string id="brushed">Brushed</string>
+    <string id="Ohio">Ohio</string>
+</strings>

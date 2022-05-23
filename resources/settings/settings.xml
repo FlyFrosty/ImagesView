@@ -1,0 +1,9 @@
+<settings>
+
+    <setting propertyKey="@Properties.BGOpt" title="@Strings.BGOptTitle" prompt="@Strings.BGOptPrompt">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.brushed</listEntry>
+            <listEntry value="1">@Strings.Ohio</listEntry>                 
+        </settingConfig>
+    </setting> 
+</settings>
